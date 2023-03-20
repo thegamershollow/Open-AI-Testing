@@ -11,5 +11,3 @@ messages=[
     {"role": "user", "content": question}
     ]
 )
-
-
