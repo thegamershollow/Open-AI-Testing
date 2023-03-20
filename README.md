@@ -30,5 +30,5 @@ A repo that I use to test Open AI integration with python
 5. Make a copy of the api example file
 
 ```bash
- cp .env.example .env
+ cp .api.example api.txt
 ```
