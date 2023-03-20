@@ -11,10 +11,14 @@ A repo that I use to test Open AI integration with python
 
 >$ . venv/bin/activate
 
-3. Now you will need to install the requirments
+3. You will need to upgrade pip before proceeding
+
+>$ pip install --upgrade pip
+
+4. Now you will need to install the requirments
 
 >$ pip install -r requirements.txt
 
-4. Make a copy of the api example file
+5. Make a copy of the api example file
 
 >$ cp .env.example .env
