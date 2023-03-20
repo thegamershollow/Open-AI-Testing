@@ -5,6 +5,7 @@
 
 # User-specific files
 *venv
+*api.txt
 *.env
 *.env.example
 *.DS_Store
